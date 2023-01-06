@@ -1,0 +1,3 @@
+[submodule "PoolHardware"]
+	path = PoolHardware
+	url = ssh://git@github.com/jbloch/PoolHardware.git
